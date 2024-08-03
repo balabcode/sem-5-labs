@@ -2,7 +2,7 @@ import cv2
 
 # Write a simple program to read and display a video file
 
-vid = cv2.VideoCapture('q2_video.mp4')
+vid = cv2.VideoCapture('../assets/common/video.mp4')
 
 while True:
     ret, frame = vid.read()

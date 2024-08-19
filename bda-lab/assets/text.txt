@@ -1,0 +1,3 @@
+write a python program to read a file and to count number of words in it. display the words in the reverse order of their frequencies.
+write a python program to read the - client will send a file to a server, which will count the number of words in it and send that back to client.
+write a python program to implement the publisher-subscriber model, where publisher publishes, and all subscribers will get the published message.

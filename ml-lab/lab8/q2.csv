@@ -1,0 +1,11 @@
+patient_id,age,blood pressure,cholesterol,diagnosis
+1,30,high,high,sick
+2,45,low,normal,healthy
+3,50,high,high,sick
+4,35,low,normal,healthy
+5,60,high,high,sick
+6,55,low,normal,healthy
+7,40,high,high,sick
+8,25,low,normal,healthy
+9,65,high,high,sick
+10,45,low,normal,healthy

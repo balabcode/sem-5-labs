@@ -1,0 +1,5 @@
+Install Hadoop in pseudo-distributed node
+Execute command to list the files in HDFS
+Install zookeeper
+Install Kafka
+Execute one server and two clients in Kafka server and pass the message from server to clients in Kafka
